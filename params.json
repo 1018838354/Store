@@ -1,6 +1,6 @@
 {
   "name": "Store",
   "tagline": "Internet Store software",
-  "body": "# Store\r\nInternet Store software\r\n# 简易网上购物系统\r\n## 该程序由C＋＋语言在mac上调试完成，实现了商品的添加，购买，调整库存，关注销量等。\r\n### 程序主要分成3个模块，商品，买家，卖家。\r\n![运行图](https://github.com/1018838354/Store/running.jpg)\r\n",
+  "body": "# Store\r\nInternet Store software\r\n# 简易网上购物系统\r\n## 该程序由C＋＋语言在mac上调试完成，实现了商品的添加，购买，调整库存，关注销量等。\r\n### 程序主要分成3个模块，商品，买家，卖家。\r\n![运行图](https://raw.githubusercontent.com/1018838354/Store/master/Running.jpg)\r\n## 联系我：\r\n### QQ：1018838354\r\n### WeChat kioye-Sam",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
